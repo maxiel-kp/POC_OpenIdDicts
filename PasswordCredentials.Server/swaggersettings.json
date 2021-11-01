@@ -1,0 +1,14 @@
+{
+  "swagger": {
+    "enabled": true,
+    "reDocEnabled": false,
+    "includeSecurity": false,
+    "documentTitle": "Password Credential Server",
+    "versions": [
+      {
+        "title": "Password Credential Server",
+        "version": "v1.0"
+      }
+    ]
+  }
+}
